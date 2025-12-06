@@ -1,0 +1,16 @@
+rank,qname,loinc_num,long_common_name,component,system,property,Z,N,final_prob
+1,cholesterol in plasma,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,Cholesterol,Ser/Plas,SCnc,2.4345311776792378,1,0.968622480193136
+2,cholesterol in plasma,2084-2,Cholesterol esters [Mass/volume] in Serum or Plasma,Cholesterol esters,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+3,cholesterol in plasma,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+4,cholesterol in plasma,2090-9,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,Cholesterol.in LDL,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+5,cholesterol in plasma,2091-7,Cholesterol in VLDL [Mass/volume] in Serum or Plasma,Cholesterol.in VLDL,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+6,cholesterol in plasma,2092-5,Deprecated Cholesterol.in VLDL [Mass/volume] in Serum or Plasma,Cholesterol.in VLDL,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+7,cholesterol in plasma,33275-9,7-Dehydrocholesterol [Mass/volume] in Serum or Plasma,7-Dehydrocholesterol,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+8,cholesterol in plasma,34671-8,8-Dehydrocholesterol [Mass/volume] in Serum or Plasma,8-Dehydrocholesterol,Ser/Plas,MCnc,2.4345311776792378,1,0.968622480193136
+9,cholesterol in plasma,35243-5,Cholesterol in HDL 3 [Mass or Moles/volume] in Serum or Plasma,Cholesterol.in HDL 3,Ser/Plas,MSCnc,2.4345311776792378,1,0.968622480193136
+10,cholesterol in plasma,10312-7,Subarachnoid drain Vendor serial number,Vendor serial number,Subarachnoid drain,ID,-3.076664811206528,1,0.01249148266318637
+11,cholesterol in plasma,105794-2,Carbapenem resistance blaVIM gene [Cycle Threshold #] in Positive blood culture by NAA with probe detection,Bacterial carbapenem resistance blaVIM gene,Bld.pos growth,ThreshNum,-3.076664811206528,1,0.01249148266318637
+12,cholesterol in plasma,30459-2,Platelet mean diameter [Entitic length] in Blood,Platelet mean diameter,Bld,EntLen,-3.076664811206528,1,0.01249148266318637
+13,cholesterol in plasma,54853-7,Has the patient had any falls since admission or prior assessment [CMS Assessment],Has the patient had any falls since admission or prior assessment,^Patient,Find,-3.076664811206528,1,0.01249148266318637
+14,cholesterol in plasma,67163-6,Diagnostic procedures performed [PhenX],Diagnostic procedures performed,^Patient,Find,-3.076664811206528,1,0.01249148266318637
+15,cholesterol in plasma,99301-4,Rubbing while at rest,Rubbing while at rest,^Patient,Find,-3.076664811206528,1,0.01249148266318637

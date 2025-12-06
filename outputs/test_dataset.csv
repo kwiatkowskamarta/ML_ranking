@@ -1,0 +1,16 @@
+qname,loinc_num,component,property,system,long_common_name,f_component_match,f_system_match,f_property_match,f_long_name_match,label
+cholesterol in plasma,30459-2,Platelet mean diameter,EntLen,Bld,Platelet mean diameter [Entitic length] in Blood,0,0,0,0,0
+cholesterol in plasma,99301-4,Rubbing while at rest,Find,^Patient,Rubbing while at rest,0,0,0,0,0
+cholesterol in plasma,33275-9,7-Dehydrocholesterol,MCnc,Ser/Plas,7-Dehydrocholesterol [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,10312-7,Vendor serial number,ID,Subarachnoid drain,Subarachnoid drain Vendor serial number,0,0,0,0,0
+cholesterol in plasma,2091-7,Cholesterol.in VLDL,MCnc,Ser/Plas,Cholesterol in VLDL [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,2092-5,Cholesterol.in VLDL,MCnc,Ser/Plas,Deprecated Cholesterol.in VLDL [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,2084-2,Cholesterol esters,MCnc,Ser/Plas,Cholesterol esters [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,34671-8,8-Dehydrocholesterol,MCnc,Ser/Plas,8-Dehydrocholesterol [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,105794-2,Bacterial carbapenem resistance blaVIM gene,ThreshNum,Bld.pos growth,Carbapenem resistance blaVIM gene [Cycle Threshold #] in Positive blood culture by NAA with probe detection,0,0,0,0,0
+cholesterol in plasma,2090-9,Cholesterol.in LDL,MCnc,Ser/Plas,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,35243-5,Cholesterol.in HDL 3,MSCnc,Ser/Plas,Cholesterol in HDL 3 [Mass or Moles/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,67163-6,Diagnostic procedures performed,Find,^Patient,Diagnostic procedures performed [PhenX],0,0,0,0,0
+cholesterol in plasma,54853-7,Has the patient had any falls since admission or prior assessment,Find,^Patient,Has the patient had any falls since admission or prior assessment [CMS Assessment],0,0,0,0,0
+cholesterol in plasma,14647-2,Cholesterol,SCnc,Ser/Plas,Cholesterol [Moles/volume] in Serum or Plasma,1,1,1,1,1
+cholesterol in plasma,2085-9,Cholesterol.in HDL,MCnc,Ser/Plas,Cholesterol in HDL [Mass/volume] in Serum or Plasma,1,1,1,1,1
